@@ -2,6 +2,7 @@ var searchData=
 [
   ['recursivesort',['recursiveSort',['../OBDeque__Private_8h.html#afefd5d593d667c8221d7af8e799f814a',1,'recursiveSort(OBDeque deque, int8_t order, compare_fptr funct):&#160;OBDeque.c'],['../OBDeque_8c.html#afefd5d593d667c8221d7af8e799f814a',1,'recursiveSort(OBDeque deque, int8_t order, compare_fptr funct):&#160;OBDeque.c']]],
   ['recursivesortcontents',['recursiveSortContents',['../OBVector__Private_8h.html#aa166464490038c95d8cb03a3476d9e0c',1,'recursiveSortContents(obj **to_sort, uint32_t size, int8_t order, compare_fptr funct):&#160;OBVector.c'],['../OBVector_8c.html#aa166464490038c95d8cb03a3476d9e0c',1,'recursiveSortContents(obj **to_sort, uint32_t size, int8_t order, compare_fptr funct):&#160;OBVector.c']]],
+  ['reduceunsignedints',['reduceUnsignedInts',['../OBInt__Private_8h.html#a58b678dccc076221d9c553c36713af4d',1,'OBInt_Private.h']]],
   ['ref_5fcount_5ft',['ref_count_t',['../offbrand_8h.html#ab022737b79ed648f890758748496a17e',1,'offbrand.h']]],
   ['referencecount',['referenceCount',['../offbrand_8h.html#aefd9153034e3d9774cc4ad8cdcbfb5da',1,'offbrand_stdlib.c']]],
   ['references',['references',['../structobj__struct.html#ae0f7e30d21cf10aa835ac1f0610c760a',1,'obj_struct']]],

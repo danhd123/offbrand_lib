@@ -7,5 +7,8 @@ var searchData=
   ['sortvectorwithfunct',['sortVectorWithFunct',['../OBVector_8h.html#a7ec06f1c8ad23c36273d521ccfcd4f8d',1,'sortVectorWithFunct(OBVector *v, int8_t order, compare_fptr funct):&#160;OBVector.c'],['../OBVector_8c.html#a7ec06f1c8ad23c36273d521ccfcd4f8d',1,'sortVectorWithFunct(OBVector *v, int8_t order, compare_fptr funct):&#160;OBVector.c']]],
   ['splitstring',['splitString',['../OBString_8h.html#a65719c5d01aacafbe535ef2c26a27dbd',1,'splitString(const OBString *s, const char *delim):&#160;OBString.c'],['../OBString_8c.html#a65719c5d01aacafbe535ef2c26a27dbd',1,'splitString(const OBString *s, const char *delim):&#160;OBString.c']]],
   ['storeatvectorindex',['storeAtVectorIndex',['../OBVector_8h.html#a02c81142e199aa0f6921d10548a41398',1,'storeAtVectorIndex(OBVector *v, obj *to_add, int64_t index):&#160;OBVector.c'],['../OBVector_8c.html#a490909249c2285f85d0e31db91c99738',1,'storeAtVectorIndex(OBVector *v, obj *to_store, int64_t index):&#160;OBVector.c']]],
-  ['stringlength',['stringLength',['../OBString_8h.html#a9d6d8b474506d2bebd2c43909d5263f3',1,'stringLength(const OBString *s):&#160;OBString.c'],['../OBString_8c.html#a9d6d8b474506d2bebd2c43909d5263f3',1,'stringLength(const OBString *s):&#160;OBString.c']]]
+  ['stringfromint',['stringFromInt',['../OBInt_8h.html#aef957da47892207b350a1d97bdf0bbd1',1,'OBInt.h']]],
+  ['stringlength',['stringLength',['../OBString_8h.html#a9d6d8b474506d2bebd2c43909d5263f3',1,'stringLength(const OBString *s):&#160;OBString.c'],['../OBString_8c.html#a9d6d8b474506d2bebd2c43909d5263f3',1,'stringLength(const OBString *s):&#160;OBString.c']]],
+  ['subtractints',['subtractInts',['../OBInt_8h.html#acd7efa0032b5a2612bd8f09505e14951',1,'OBInt.h']]],
+  ['subtractunsignedints',['subtractUnsignedInts',['../OBInt__Private_8h.html#acf5037d8468ee10c10713f5640ccc118',1,'OBInt_Private.h']]]
 ];
