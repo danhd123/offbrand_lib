@@ -5,5 +5,5 @@ var searchData=
   ['modints',['modInts',['../OBInt_8h.html#a9cc7096ed62c0bafba5dbad71059a1a1',1,'OBInt.h']]],
   ['mostsignonzero',['mostSigNonZero',['../OBInt__Private_8h.html#a309c7235c4c0748efa543ccd1aeb6ea0',1,'mostSigNonZero(const OBInt *a):&#160;OBInt.c'],['../OBInt_8c.html#a309c7235c4c0748efa543ccd1aeb6ea0',1,'mostSigNonZero(const OBInt *a):&#160;OBInt.c']]],
   ['multiplyints',['multiplyInts',['../OBInt_8h.html#a0071f5a49508a6a9f86cea6409be6259',1,'OBInt.h']]],
-  ['multiplyunsignedints',['multiplyUnsignedInts',['../OBInt__Private_8h.html#a2cff8ae317bbdfc28ed88cfe35b12a44',1,'OBInt_Private.h']]]
+  ['multiplyunsignedints',['multiplyUnsignedInts',['../OBInt__Private_8h.html#a2cff8ae317bbdfc28ed88cfe35b12a44',1,'multiplyUnsignedInts(const OBInt *a, const OBInt *b):&#160;OBInt.c'],['../OBInt_8c.html#a2cff8ae317bbdfc28ed88cfe35b12a44',1,'multiplyUnsignedInts(const OBInt *a, const OBInt *b):&#160;OBInt.c']]]
 ];
