@@ -17,12 +17,6 @@ var searchData=
   ['obdequenode',['OBDequeNode',['../OBDeque__Private_8h.html#aad7d719be20af20a34cf519e88eddbbf',1,'OBDeque_Private.h']]],
   ['obdequenode_5fstruct',['OBDequeNode_struct',['../structOBDequeNode__struct.html',1,'']]],
   ['obhash_5ft',['obhash_t',['../offbrand_8h.html#a899693874716917329d244630f22e130',1,'offbrand.h']]],
-  ['obint',['OBInt',['../OBInt_8h.html#ae9eb07bb7af1019db4149ed13054f9a6',1,'OBInt():&#160;OBInt.h'],['../group__OBInt.html',1,'(Global Namespace)']]],
-  ['obint_2ec',['OBInt.c',['../OBInt_8c.html',1,'']]],
-  ['obint_2eh',['OBInt.h',['../OBInt_8h.html',1,'']]],
-  ['obint_5fprivate_2eh',['OBInt_Private.h',['../OBInt__Private_8h.html',1,'']]],
-  ['obint_5fstruct',['OBInt_struct',['../structOBInt__struct.html',1,'']]],
-  ['obint_5ftest_2ec',['OBInt_test.c',['../OBInt__test_8c.html',1,'']]],
   ['obj',['obj',['../offbrand_8h.html#a14f6160080cff474965b973219856f8f',1,'offbrand.h']]],
   ['obj_5fprivate_2eh',['obj_Private.h',['../obj__Private_8h.html',1,'']]],
   ['obj_5fstruct',['obj_struct',['../structobj__struct.html',1,'']]],
@@ -30,7 +24,7 @@ var searchData=
   ['objatdequeit',['objAtDequeIt',['../OBDeque_8h.html#a59f9e65005f5f8f27f978661546f4059',1,'objAtDequeIt(const OBDeque *deque, const OBDequeIterator *it):&#160;OBDeque.c'],['../OBDeque_8c.html#a59f9e65005f5f8f27f978661546f4059',1,'objAtDequeIt(const OBDeque *deque, const OBDequeIterator *it):&#160;OBDeque.c']]],
   ['objatdequetail',['objAtDequeTail',['../OBDeque_8h.html#a90511615b2f5c51920765f0015fa659b',1,'objAtDequeTail(const OBDeque *deque):&#160;OBDeque.c'],['../OBDeque_8c.html#a90511615b2f5c51920765f0015fa659b',1,'objAtDequeTail(const OBDeque *deque):&#160;OBDeque.c']]],
   ['objatvectorindex',['objAtVectorIndex',['../OBVector_8h.html#a4e470c890fcb453912cb3798fd0dd9ee',1,'objAtVectorIndex(const OBVector *v, int64_t index):&#160;OBVector.c'],['../OBVector_8c.html#a4e470c890fcb453912cb3798fd0dd9ee',1,'objAtVectorIndex(const OBVector *v, int64_t index):&#160;OBVector.c']]],
-  ['objisofclass',['objIsOfClass',['../offbrand_8h.html#a87905a79f8877fe06dc1326b139288e8',1,'offbrand_stdlib.c']]],
+  ['objisofclass',['objIsOfClass',['../offbrand_8h.html#a87905a79f8877fe06dc1326b139288e8',1,'objIsOfClass(const obj *a, const char *classname):&#160;offbrand_stdlib.c'],['../offbrand__stdlib_8c.html#a87905a79f8877fe06dc1326b139288e8',1,'objIsOfClass(const obj *a, const char *classname):&#160;offbrand_stdlib.c']]],
   ['obmap',['OBMap',['../OBMap_8h.html#a986601dc6bcce561c44f45e1ebcbf9de',1,'OBMap():&#160;OBMap.h'],['../group__OBMap.html',1,'(Global Namespace)']]],
   ['obmap_2ec',['OBMap.c',['../OBMap_8c.html',1,'']]],
   ['obmap_2eh',['OBMap.h',['../OBMap_8h.html',1,'']]],
@@ -57,5 +51,6 @@ var searchData=
   ['obvector_5fprivate_2eh',['OBVector_Private.h',['../OBVector__Private_8h.html',1,'']]],
   ['obvector_5fstruct',['OBVector_struct',['../structOBVector__struct.html',1,'']]],
   ['obvector_5ftest_2ec',['OBVector_test.c',['../OBVector__test_8c.html',1,'']]],
-  ['offbrand_2eh',['offbrand.h',['../offbrand_8h.html',1,'']]]
+  ['offbrand_2eh',['offbrand.h',['../offbrand_8h.html',1,'']]],
+  ['offbrand_5fstdlib_2ec',['offbrand_stdlib.c',['../offbrand__stdlib_8c.html',1,'']]]
 ];
