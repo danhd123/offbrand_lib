@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['standard_20library',['Standard Library',['../group__Offbrand.html',1,'']]],
   ['sameclass',['sameClass',['../offbrand_8h.html#a3db6dbf0beca1664a950347c523752d8',1,'sameClass(const obj *a, const obj *b):&#160;offbrand_stdlib.c'],['../offbrand__stdlib_8c.html#a3db6dbf0beca1664a950347c523752d8',1,'sameClass(const obj *a, const obj *b):&#160;offbrand_stdlib.c']]],
   ['setmaxdigits',['setMaxDigits',['../OBInt__Private_8h.html#a73606ac0696069e080130552b600b754',1,'setMaxDigits(uint8_t digits):&#160;OBInt.c'],['../OBInt_8c.html#a73606ac0696069e080130552b600b754',1,'setMaxDigits(uint8_t digits):&#160;OBInt.c']]],
   ['shiftint',['shiftInt',['../OBInt__Private_8h.html#a433854e70703200567cc818f1f2f59eb',1,'shiftInt(OBInt *a, uint64_t m):&#160;OBInt.c'],['../OBInt_8c.html#a433854e70703200567cc818f1f2f59eb',1,'shiftInt(OBInt *a, uint64_t m):&#160;OBInt.c']]],
