@@ -74,9 +74,16 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="title">offbrand Documentation</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><h2><a class="anchor" id="Introduction"></a>
-Introduction</h2>
-<p>offbrand is a collection of reference counted generic data structures written in C for C. The library is intended to relieve the need to reimplement common data structures for the 1000th time, letting you focus on interesting app specific code.</p>
+<div class="textblock"><p>offbrand is a collection of reference counted generic data structures written in pure C for the C programmer. The library is intended to relieve the common need to reimplement a standard data structures in an application. Never again need to write an automatically resizing array for your application specific datatype and use the vector included in offbrand instead.</p>
+<p>offbrand is based upon C style classes, and currently provides the following data structures out of the box:</p>
+<ul>
+<li>OBDeque: A double ended linked list</li>
+<li>OBInt: an arbitrary precision integer</li>
+<li>OBMap: A hash table with constant time insert and lookup</li>
+<li>OBString: a classic string type with more convenience methods than your standard c string.</li>
+<li>OBVector: an automatically resizing array</li>
+</ul>
+<p>The library also includes a script, mkobc (MaKe OffBrand Class), that generates new class skeletons for you, so you don't have to write a single piece of the boilerplate code required to make a datatype compatible with the data structure library. Just generate your new type with the script and add application specific logic to the generated files.</p>
 <p><em>NOTE</em>: The phrase "class" is used in this documentation to refer to a C style approximation of a class built from functions and incomplete types, rather than a traditional class in a language like Java or Ruby <br/>
 <br/>
 </p>
@@ -253,7 +260,7 @@ Contributing</h2>
 
 
 <hr class="footer"/><address class="footer"><small>
-Generated on Sun Jun 9 2013 18:42:12 for offbrand by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Mon Jun 10 2013 10:51:51 for offbrand by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.7.6.1
 </small></address>
